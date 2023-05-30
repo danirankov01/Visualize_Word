@@ -8,7 +8,7 @@ import tkinter as tk
 from io import BytesIO
 from PIL import Image, ImageTk
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 def display_image(image_url):
